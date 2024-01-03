@@ -13,7 +13,7 @@
 
 **Дополнительный Стек:**
 <p align="left">
-      <a href="#"><img src="https://img.shields.io/badge/Clickhouse?style=for-the-badge&logo=Clickhouse&logoColor=white" alt="vue"/></a>
+      <a href="#"><img src="https://img.shields.io/badge/Clickhouse-6DB33F?style=for-the-badge&logo=Clickhouse&logoColor=white" alt="Clickhouse-6DB33F"/></a>
       <a href="#"><img src="https://img.shields.io/badge/mongodb-049024?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/></a>
       <a href="#"><img src="https://img.shields.io/badge/mysql-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/></a>
       <a href="#"><img src="https://img.shields.io/badge/redis-D82C20?style=for-the-badge&logo=redis&logoColor=white" alt="redis"/></a>
