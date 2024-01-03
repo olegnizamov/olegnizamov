@@ -9,33 +9,22 @@
 </ul>
 <h2>🚀 Тулзы, которые я использую в работе или игрался с ними</h2>
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="vue" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vue" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".NET" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cucumber/cucumber-plain.svg" alt="cucumber" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="25" height="25" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="25" height="25" />
+      <a href="#"><img src="https://img.shields.io/badge/php-8993be?style=for-the-badge&logo=php&logoColor=white" alt="php"/></a>
+      <a href="#"><img src="https://img.shields.io/badge/vue-42b883?style=for-the-badge&logo=Vue&logoColor=white" alt="vue"/></a>
+      <a href="#"><img src="https://img.shields.io/badge/mongodb-049024?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/></a>
+      <a href="#"><img src="https://img.shields.io/badge/mysql-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/></a>
+      <a href="#"><img src="https://img.shields.io/badge/redis-D82C20?style=for-the-badge&logo=redis&logoColor=white" alt="redis"/></a>
+      <a href="#"><img src="https://img.shields.io/badge/python-4B8BBE?style=for-the-badge&logo=python&logoColor=white" alt="python"/></a>
+      <a href="#"><img src="https://img.shields.io/badge/nginx-009900?style=for-the-badge&logo=nginx&logoColor=white" alt="nginx"/></a>
+      <a href="#"><img src="https://img.shields.io/badge/docker-039BC6?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/></a>
+      <a href="#"><img src="https://img.shields.io/badge/go-69D7E2?style=for-the-badge&logo=go&logoColor=white" alt="go"/></a>
+      <a href="#"><img src="https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="rust"/></a>
+      <a href="#"><img src="https://img.shields.io/badge/Java-EF492F?style=for-the-badge&logo=java&logoColor=white" alt="Java"/></a>
+      <a href="#"><img src="https://img.shields.io/badge/Kotlin-F88909?&style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/></a>
+      <a href="#"><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/></a>
 </p>
 
-
-
-
-
 <table>
-  <tr>
-    <td>
-      <h2>🚀 Тулзы, которые я использую в работе или игрался с ними</h2>
-      <a href="#"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/></a>
-      <a href="#"><img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/></a>
-      <a href="#"><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/></a>    
-    </td>
-  </tr>
   <tr>
     <td>
       <a href="https://www.linkedin.com/in/olegnizamov"><img src="https://img.shields.io/badge/Oleg%20Nizamov-blue?style=flat&logo=Linkedin&logoColor=white" alt="Linkedin"/></a>
