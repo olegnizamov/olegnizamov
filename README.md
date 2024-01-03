@@ -30,7 +30,7 @@
 <table>
   <tr>
     <td>
-      <!-- Skills -->
+      <h2>🚀 Тулзы, которые я использую в работе или игрался с ними</h2>
       <a href="#"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/></a>
       <a href="#"><img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/></a>
       <a href="#"><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/></a>    
@@ -38,7 +38,6 @@
   </tr>
   <tr>
     <td>
-      <!-- Stats -->
       <a href="https://www.linkedin.com/in/olegnizamov"><img src="https://img.shields.io/badge/Oleg%20Nizamov-blue?style=flat&logo=Linkedin&logoColor=white" alt="Linkedin"/></a>
       <a href="https://gitstats.me/olegnizamov"><img src="https://img.shields.io/badge/-olegnizamov-black?style=flat&labelColor=black&logo=github&logoColor=white" alt="Github"/></a>
     </td>
