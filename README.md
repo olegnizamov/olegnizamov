@@ -22,3 +22,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="25" height="25" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="25" height="25" />
 </p>
+
+
+<a href="https://www.codewars.com/users/OlegNizamov"><img src="https://www.codewars.com/users/OlegNizamov/badges/micro" alt="Codewars"/></a>
