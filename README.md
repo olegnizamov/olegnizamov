@@ -9,18 +9,17 @@
 
 **Опыт управления проектами и продуктами как тимлид:** 4 года.
 
-**Стек:** Symfony, Laravel, Vue, Go, Rust, HTML, CSS, Git, Jest, Cypress.
+**Основной Стек:** Symfony, Vue, Go, Rust, HTML, CSS, Git, Cypress.
+
+**Дополнительный Стек:**
 <p align="left">
-      <a href="#"><img src="https://img.shields.io/badge/php-8993be?style=for-the-badge&logo=php&logoColor=white" alt="php"/></a>
-      <a href="#"><img src="https://img.shields.io/badge/vue-42b883?style=for-the-badge&logo=Vue&logoColor=white" alt="vue"/></a>
+      <a href="#"><img src="https://img.shields.io/badge/Clickhouse?style=for-the-badge&logo=Clickhouse&logoColor=white" alt="vue"/></a>
       <a href="#"><img src="https://img.shields.io/badge/mongodb-049024?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/></a>
       <a href="#"><img src="https://img.shields.io/badge/mysql-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/></a>
       <a href="#"><img src="https://img.shields.io/badge/redis-D82C20?style=for-the-badge&logo=redis&logoColor=white" alt="redis"/></a>
       <a href="#"><img src="https://img.shields.io/badge/python-4B8BBE?style=for-the-badge&logo=python&logoColor=white" alt="python"/></a>
       <a href="#"><img src="https://img.shields.io/badge/nginx-009900?style=for-the-badge&logo=nginx&logoColor=white" alt="nginx"/></a>
       <a href="#"><img src="https://img.shields.io/badge/docker-039BC6?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/></a>
-      <a href="#"><img src="https://img.shields.io/badge/go-69D7E2?style=for-the-badge&logo=go&logoColor=white" alt="go"/></a>
-      <a href="#"><img src="https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="rust"/></a>
       <a href="#"><img src="https://img.shields.io/badge/Java-EF492F?style=for-the-badge&logo=java&logoColor=white" alt="Java"/></a>
       <a href="#"><img src="https://img.shields.io/badge/Kotlin-F88909?&style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/></a>
       <a href="#"><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/></a>
